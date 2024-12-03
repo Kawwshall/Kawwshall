@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kawwshall
 - 👀 I’m interested in Developing engineering solutions
 - 🌱 I’m currently learning Sophisticated Backend services
-- 📫 Reach me here at beingkaushal01@gmail.com
+- 📫 Reach me here at crowwshall@gmail.com
 - 😄 Pronouns: Croww
 
 <!---
